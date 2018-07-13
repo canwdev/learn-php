@@ -20,4 +20,5 @@ php是一门运行于服务器端的脚本语言。通常配合MySQL使用，作
 
 1. [安装php并运行](index.php)
 1. [作用域](index.1.php)
-1. [](index.1.php)
+1. [EOF的使用](index.2.php)
+1. [php数据类型](index.3.php)
