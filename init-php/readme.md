@@ -24,3 +24,7 @@ php是一门运行于服务器端的脚本语言。通常配合MySQL使用，作
 1. [php数据类型](index.3.php)
 1. [php常量](index.4.php)
 1. [php与js不同的运算符/语句](index.5.php)
+1. [php超级全局变量](index.6.php)
+    1. [$_REQUEST](index.6.request.php)
+    1. [$_POST](index.6.post.php)
+    1. [$_GET](index.6.get.php)
